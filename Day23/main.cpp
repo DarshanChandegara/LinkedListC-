@@ -2,7 +2,7 @@
 
 int main()
 {
-	LinkedList l1{5,10,15};
+	LinkedList <int>l1{5,10,15};
 	l1.insertAtLast(10);
 	l1.insertAtLast(20);
 	l1.insertAtLast(30);
